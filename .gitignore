@@ -1,0 +1,37 @@
+# Directorios de salida de compilación
+bin/
+obj/
+
+# Directorios de Visual Studio
+.vs/
+*.suo
+*.user
+
+# Archivos de usuario y temporales
+*.log
+*.tmp
+*.bak
+
+# Paquetes NuGet
+packages/
+# o si usas SDK estilo proyecto:
+# **/*.nupkg
+
+# Archivos de la solución
+*.sln.docstates
+
+# Archivos generados por el IDE/Build
+# Para .NET Core/5+
+# **/bin/
+# **/obj/
+# **/TestResults/
+
+# Para proyectos antiguos .NET Framework
+# **/bin/Debug/
+# **/bin/Release/
+
+# Archivos específicos de VS Code (si aplica)
+.vscode/
+
+# Otros archivos de Windows/IDE
+Thumbs.db
