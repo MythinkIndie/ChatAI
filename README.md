@@ -25,6 +25,7 @@ La interfaz está diseñada como una app de escritorio tradicional para Windows.
 
 ## 📁 Estructura del Repositorio
 
+```text
 /
 ├── img/ 📸 Recursos de imágenes
 ├── App.xaml 💡 Configuración de la app WPF
@@ -36,7 +37,7 @@ La interfaz está diseñada como una app de escritorio tradicional para Windows.
 ├── MarkdownStyles.xaml 🎨 Estilos para mostrar markdown
 ├── chatapp.db 🧾 Base de datos SQLite incluida
 └── README.md 📄 Esta documentación
-
+```
 
 ---
 
